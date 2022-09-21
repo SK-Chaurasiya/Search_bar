@@ -12,6 +12,8 @@ This API covers all key use cases related to recipe and food text natural langua
 
 
 ![search bar](https://user-images.githubusercontent.com/97239651/191457836-cd030822-a0bd-4ceb-8261-9b7b337695e5.PNG)
+
+
 ![search](https://user-images.githubusercontent.com/97239651/191457843-469b0a7a-0fad-412b-b69f-e6fd12968cb1.PNG)
 
 
